@@ -11,21 +11,21 @@ The frequency and intensity of environmental inspections, violations, and enforc
 -	If formal enforcement occurs, are penalties lower in communities with high EJIs?
 ## Data Sources
 Environmental Compliance History Online datasets, downloaded from the EPA's [CAA ECHO dashboard](https://echo.epa.gov/trends/comparative-maps-dashboards/state-air-dashboard?view=dash). Accessed 11/15/2026.
--facility_data_raw
--placeholder
--placeholder
+- facility_data_raw
+- placeholder
+- placeholder
 Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [2024 Environmental Justice Index](https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html). Accessed 11/15/2026.
--placeholder
+ placeholder
 ### File Organization
 >'01_raw_data/'
-> Original EPA and CDC data
+> Original EPA and CDC data <br>
 >'02_processed_data/'
-> Processed and transformed datasets
+> Processed and transformed datasets <br>
 >'03_processing_scripts/'
-> placeholder
+> placeholder <br>
 > '04_analysis_scripts/'
-> placeholder
+> placeholder <br>
 > '05_outputs/'
-> placeholder
+> placeholder <br>
 > '06_archive/'
 > placeholder
