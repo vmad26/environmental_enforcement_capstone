@@ -1,6 +1,6 @@
 # Environmental Justice Index and Clean Air Act Enforcement Activity
 ## Overview
-This repository contains the working materials, data, and analysis developed to fulfill the capstone requirement for the Yale School of the Environment's – Environmental Data Science Certificate Program.
+This repository contains the working materials, data, and analysis developed in fulfillment of the the capstone requirement for the Yale School of the Environment's – Environmental Data Science Certificate Program.
 
 The study investigates the relationship between a community's environmental justice index and environmental enforcement activity under the Clean Air Act. The types of environmental enforcement activity explored are inspections and serious enforcement indicators like high priority violations and formal enforcement.
 ## Background
@@ -15,7 +15,7 @@ Environmental Compliance History Online datasets, downloaded from the EPA's [CAA
 - placeholder
 - placeholder <br>
 Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [2024 Environmental Justice Index](https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html). Accessed 11/15/2026.
- placeholder
+- placeholder
 ### File Organization
 >`01_raw_data/`
 > Original EPA and CDC data <br>
