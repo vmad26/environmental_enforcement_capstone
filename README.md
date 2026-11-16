@@ -13,7 +13,7 @@ The frequency and intensity of environmental inspections, violations, and enforc
 **Environmental Compliance History Online datasets, downloaded from the EPA's [CAA ECHO dashboard](https://echo.epa.gov/trends/comparative-maps-dashboards/state-air-dashboard?view=dash). Accessed 11/15/2026.**
 - facility_data_raw
 - placeholder
-- placeholder
+- placeholder <br>
 **Centers for Disease Control and Prevention and Agency for Toxic Substances Disease Registry. [2024 Environmental Justice Index](https://atsdr.cdc.gov/place-health/php/eji/eji-data-download.html). Accessed 11/15/2026.**
 - placeholder
 ### File Organization
